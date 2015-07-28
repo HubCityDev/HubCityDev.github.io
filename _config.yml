@@ -1,0 +1,12 @@
+# Site settings
+title: Hub City Developers - Hattissburg, MS Software developers user group
+email: Anson.Smith@gmail.com
+description: "Starting work on a simple website"
+baseurl: ""
+url: "http://hubcitydevelopers.com"
+twitter_username: anson_smith
+github_username:  HubCityDevs
+
+# Build settings
+markdown: kramdown
+permalink: pretty
